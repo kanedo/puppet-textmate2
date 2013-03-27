@@ -4,7 +4,7 @@
 #
 #   include textmate::textmate2
 class textmate::textmate2 inherits textmate {
-  package ['TextMate'] {
+  package['textMate'] {
     source   => 'https://github.com/downloads/textmate/textmate/TextMate_r9383.tbz',
   }
 }
